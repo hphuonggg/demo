@@ -704,6 +704,16 @@
             <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
             <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
         </div>
+        <form action="">
+            <tr>
+                <th>name</th>
+                <td>age</td>
+            </tr>
+            <tr>
+                <th>phuong</th>
+                <td>20</td>
+            </tr>
+        </form>
         <div class="col-lg-8 col-md-12">
             <div class="row">
                 <div class="col-md-4 mb-5">
@@ -758,7 +768,7 @@
             <img class="img-fluid" src="img/payments.png" alt="">
         </div>
     </div>
-    <h1>hiiiiiiiiii</h1>
+    <h2>xin chaoooo</h2>
 </div>
 <!-- Footer End -->
 
