@@ -12,8 +12,11 @@
     <title>Title</title>
 </head>
 <body>
+<h1>helloo</h1>
 <c:forEach var="p" items="${products}">
     <h1>${p.name}, ${p.price}</h1>
 </c:forEach>
+
+<h2>tui la phuong ne</h2>
 </body>
 </html>
