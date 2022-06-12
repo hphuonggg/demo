@@ -758,6 +758,7 @@
             <img class="img-fluid" src="img/payments.png" alt="">
         </div>
     </div>
+    <h1>hiiiiiiiiii</h1>
 </div>
 <!-- Footer End -->
 
